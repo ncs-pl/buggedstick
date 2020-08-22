@@ -1,0 +1,5 @@
+---
+host: # SMTP server (ie smtp.gmail.com)
+port: # SMTP server port (ie 587 for GMail)
+email: # Sender email address (ie myself@gmail.com)
+password: # Sender password (ie StR0ng#~P4Ssw0rD)
